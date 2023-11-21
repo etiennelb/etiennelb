@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am glad you landed in my profile, let me tell you real quick who I am and what I do.
+
+- 🌱 I’m learning pentesting
+- 📫 How to reach me: [Twitter](https://twitter.com/etiennelb)
+- ☕ [Buy me coffee](https://ko-fi.com/etiennelb)
+
+
 <!--
 **etiennelb/etiennelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
