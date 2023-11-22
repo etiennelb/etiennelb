@@ -2,7 +2,11 @@
 
 I am glad you landed in my profile, let me tell you real quick who I am and what I do.
 
-- 🌱 I’m learning pentesting
+- 🛡️ I work in cybersecurity
+- 🌱 After a few years off, I'm learning pentesting all over again, for fun
+- 🎧 I listen to a lot of housemusic and sometimes mix a few vinyls.
+- 🎹 I play the piano
+- 🇫🇷 I'm french
 - 📫 How to reach me: [Twitter](https://twitter.com/etiennelb)
 - ☕ [Buy me coffee](https://ko-fi.com/etiennelb)
 
