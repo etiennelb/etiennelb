@@ -7,7 +7,7 @@ I am glad you landed in my profile, let me tell you real quick who I am and what
 - 🎧 I listen to a lot of housemusic and sometimes mix a few vinyls.
 - 🎹 I play the piano
 - 🇫🇷 I'm french
-- 📫 How to reach me: [Twitter](https://twitter.com/etiennelb)
+- 📫 How to reach me: [X (Twitter)](https://twitter.com/etiennelb) [infosec.exchange](https://infosec.exchange/@etienne)
 - ☕ [Buy me coffee](https://ko-fi.com/etiennelb)
 
 
