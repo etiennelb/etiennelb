@@ -8,8 +8,7 @@ I am glad you landed in my profile, let me tell you real quick who I am and what
 - 🎹 I play the piano
 - 🇫🇷 I'm french
 - 📫 How to reach me: [X (Twitter)](https://twitter.com/etiennelb) [infosec.exchange](https://infosec.exchange/@etienne)
-- ☕ [Buy me coffee](https://ko-fi.com/etiennelb)
-
+- ☕ If you enjoyed something I did, you can [buy me coffee](https://ko-fi.com/etiennelb)
 
 <!--
 **etiennelb/etiennelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
